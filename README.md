@@ -1,15 +1,51 @@
-# EmailThieferer
+# EmailThiefer
 
       ...a whisper in the wires...
-      _________________
-     /                 \
-    /                   \
-   /   ___   ___   ___   \
-  /   /   \ /   \ /   \   \
- /   |  @  |  @  |  @  |   /
- \    \___/ \___/ \___/   /
-  \                     /
-   \___________________/
+             . . . a   w h i s p e r   i n   t h e   w i r e s . . .
+
+                                EmailThiefer
+                         ...the phantom in the circuitry...
+
+
+                         ┌───────────────────────────┐
+                         │       THE ALL-SEEING       │
+                         │            EYE             │
+                         └───────────────────────────┘
+
+                                   /\
+                                  /  \
+                                 / /\ \
+                                / /  \ \
+                               /_/____\_\
+                                 (    )
+                              .-'  ||  '-.
+                           .-'     ||     '-.
+                         .'        ||        '.
+                        /    ┌─────╫─────┐     \
+                       |     │     ╫     │      |
+                       |     │     ╫     │      |
+                       |     └─────╫─────┘      |
+                        \          ║           /
+                         '.        ║         .'
+                           '-.     ║     .-'
+                              '-.  ║  .-'
+                                 '-||-'
+                                   ||
+                            ~~~~~~~||~~~~~~~
+                            \\\\\\\||///////
+                             \\\\\\||//////
+                               \\\\||////
+                                 \\||//
+                                   \/
+
+
+             The phantom crawler...
+         moving through links like shadows
+        harvesting whispers, unseen, unheard.
+
+
+                       [ E M A I L T H I E F E R ]
+                        "Silent as the Grave"
 
 
 
