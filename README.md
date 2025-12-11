@@ -120,4 +120,4 @@ The gathered souls... that is, *emails*... are stored in `emails.txt` by default
 
 ## A Word of Caution
 
-The EmailThiefer is a tool of immense power. It is intended for those who walk the path of light – the security researchers, the ethical hackers, the digital guardians. It is a tool for understanding, not for exploitation. The creator of this tool is not responsible for the choices of its wielder. The shadows can be used for good or for ill. Choose wisely.
+The EmailThiefer is a tool of immense power. It is intended for those who walk the path of light; the security researchers, the ethical hackers, the digital guardians. It is a tool for understanding, not for exploitation. The creator of this tool is not responsible for the choices of its wielder. The shadows can be used for good or for ill. Choose wisely.
