@@ -8,41 +8,41 @@
                          │       THE ALL-SEEING      │
                          │            EYE            │
                          └───────────────────────────┘
-
-                                   /\
-                                  /  \
-                                 / /\ \
-                                / /  \ \
-                               /_/____\_\
-                                 (    )
-                              .-'  ||  '-.
-                           .-'     ||     '-.
-                         .'        ||        '.
-                        /    ┌─────╫─────┐     \
-                       |     │     ╫     │      |
-                       |     │     ╫     │      |
-                       |     └─────╫─────┘      |
-                        \          ║           /
-                         '.        ║         .'
-                           '-.     ║     .-'
-                              '-.  ║  .-'
-                                 '-||-'
-                                   ||
-                            ~~~~~~~||~~~~~~~
-                            \\\\\\\||///////
-                             \\\\\\||//////
-                               \\\\||////
-                                 \\||//
-                                   \/
-
-
-             The phantom crawler...
-         moving through links like shadows
-        harvesting whispers, unseen, unheard.
-
-
-                       [ E M A I L T H I E F E R ]
-                        "Silent as the Grave"
+    
+                                       /\
+                                      /  \
+                                     / /\ \
+                                    / /  \ \
+                                   /_/____\_\
+                                     (    )
+                                  .-'  ||  '-.
+                               .-'     ||     '-.
+                             .'        ||        '.
+                            /    ┌─────╫─────┐     \
+                           |     │     ╫     │      |
+                           |     │     ╫     │      |
+                           |     └─────╫─────┘      |
+                            \          ║           /
+                             '.        ║         .'
+                               '-.     ║     .-'
+                                  '-.  ║  .-'
+                                     '-||-'
+                                       ||
+                                ~~~~~~~||~~~~~~~
+                                \\\\\\\||///////
+                                 \\\\\\||//////
+                                   \\\\||////
+                                     \\||//
+                                       \/
+    
+    
+                  			     The phantom crawler...
+                  			 moving through links like shadows
+                  		 harvesting whispers, unseen, unheard.
+    
+    
+                           [ E M A I L T H I E F E R ]
+                              "Silent as the Grave"
 
 
 
@@ -64,10 +64,10 @@ In the digital expanse, where information flows like a river, there are whispers
 Built on the bones of the DirReaper tool, EmailThiefer goes beyond a simplistic brute. It is a sophisticated instrument, designed for a singular purpose: to extract the digital lifeblood of a website... its email addresses.
 
 *   **Ghostly Presence:** Built with `asyncio` and `aiohttp`, it moves like a phantom, making multiple requests at once, leaving barely a trace.
-*   **The All-Seeing Eye:** It doesn't just look at the surface. It delves deep, following every link, exploring every corner of a domain to find its hidden treasures.
+*   **The All-Seeing Eye:** It delves deep, following every link, exploring every corner of a domain to find its hidden treasures.
 *   **Master of Disguise:** It can take on any identity, reading from a single URL or a list of targets, adapting to the mission's needs.
 *   **The Black Book:** Every email found is meticulously recorded, saved to a file for your private collection.
-*   **Silent as the Grave:** No fanfare, no alarms. Just the quiet satisfaction of a job well done.
+*   **Silent as the Grave:** No fanfare or alarms. Just the quiet satisfaction of a job well done.
 
 ## The Ritual of Summoning
 
