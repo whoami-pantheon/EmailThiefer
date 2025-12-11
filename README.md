@@ -1,9 +1,8 @@
 # EmailThiefer
 
-      ...a whisper in the wires...
              . . . a   w h i s p e r   i n   t h e   w i r e s . . .
 
-                                EmailThiefer
+##                                EmailThiefer
                          ...the phantom in the circuitry...
 
 
