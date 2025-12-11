@@ -1,9 +1,7 @@
 # EmailThiefer
 
              . . . a   w h i s p e r   i n   t h e   w i r e s . . .
-
-##                                EmailThiefer
-                         ...the phantom in the circuitry...
+                        ...the phantom in the circuitry...
 
 
                          ┌───────────────────────────┐
